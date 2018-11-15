@@ -257,6 +257,44 @@ span.img-caption{
 	font-size: 20px;
 }
 
+/* Slides (editting the icons to circular shape) of the carousel/slideshow */
+#slide1 {
+  height:20px !important;
+  width: 20px !important;
+  background-color: darkgrey !important;
+  border-radius: 20px;
+}
+
+#slide2 {
+  height:20px !important;
+  width: 20px !important;
+  background-color: grey !important;
+  border-radius: 20px;
+}
+
+#slide3 {
+  height:20px !important;
+  width: 20px !important;
+  background-color: black !important;
+  border-radius: 20px;
+}
+
+#Round1Feedback1{
+	background-color: white;
+	padding: 20px;
+}
+
+#Round1Feedback2{
+	background-color: lightgrey;
+	padding: 20px;
+}
+
+#Round1Feedback3{
+	background-color: grey;
+	padding: 20px;
+}
+
+
 /*Footer*/
 .footer{
 	margin-top: 10px;
